@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <div align="center" width="50">
 
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+<img src="https://github.com/rickdevelops/rickdevelops/blob/main/gifs/Welcome%20to%20github%20account.mp4" alt="Welcome!" width="300"/>
 
 </div>
 
