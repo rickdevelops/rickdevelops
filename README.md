@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center" width="50">
-
-<img src="https://imgur.com/lhHR0gZ" alt="Welcome!" width="300"/>
-
+<img src="https://imgur.com/jrePkXF.gif" alt="Welcome" width="300"/>
 </div>
 
 <div align="center">
@@ -49,11 +47,13 @@ or <a href="mailto:sounakdey22@gmail.com"><b>email</b></a> me
 
 <i>Follow me around the web:</i><br>
 
+  <a target="_blank" href="https://github.com/rickdevelops/">🇬​🇮​🇹​🇭​🇺​🇧​</a> ●
   <a target="_blank" href="https://www.linkedin.com/in/sounak-dey-ind/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
   <a target="_blank" href="https://www.instagram.com/uncommitedsingle/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
   <a target="_blank" href="https://www.facebook.com/sounak.dey.142/">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
   <a target="_blank" href="https://open.spotify.com/user/31n6gl67lhbt3yqmz6awiyb7g7ia?si=9a8f655698654b34">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a>
 
+<a href="https://github.com/rickdevelops" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000.svg?&style=flat-square&logo=github&logoColor=white" alt="Github"></a>
 <a href="https://www.linkedin.com/in/sounak-dey-ind/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/uncommitedsingle/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/sounak.dey.142/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
