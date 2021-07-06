@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center" width="50">
-<img src="https://imgur.com/jrePkXF.gif" alt="Welcome" width="300"/>
+<!-- <img src="https://imgur.com/jrePkXF.gif" alt="Welcome" width="300"/> -->
+<img src="https://imgur.com/voQGBPk.gif" alt="Welcome" width="300"/>
 </div>
 
 <div align="center">
