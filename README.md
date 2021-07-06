@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/rickdevelops/rickdevelops/issues/new"><b>here</b></a><br>
-or <a href="mailto:sounakdey22@gmail.com"><b>email</b></a> me
+or <a href="mailto:sounakdey22@gmail.com"><b>email</b></a> me.
 
 <i>Happy Coding!</i> 😊
 
