@@ -20,9 +20,8 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center" width="50">
-
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
-
+<!-- <img src="https://imgur.com/jrePkXF.gif" alt="Welcome" width="300"/> -->
+<img src="https://imgur.com/voQGBPk.gif" alt="Welcome" width="300"/>
 </div>
 
 <div align="center">
@@ -42,29 +41,32 @@ or <a href="mailto:sounakdey22@gmail.com"><b>email</b></a> me
 
 </br>
 </br>
-<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+<!-- <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a> -->
+
+<i>Random dev joke for you!</i><br>
+<img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes">
+
 
 ---
-[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
 
 <i>Follow me around the web:</i><br>
 
+  <a target="_blank" href="https://github.com/rickdevelops/">🇬​🇮​🇹​🇭​🇺​🇧​</a> ●
   <a target="_blank" href="https://www.linkedin.com/in/sounak-dey-ind/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
   <a target="_blank" href="https://www.instagram.com/uncommitedsingle/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
   <a target="_blank" href="https://www.facebook.com/sounak.dey.142/">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
-  <!--<a target="_blank" href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a>
-  <a target="_blank" href="https://dev.to/ABSphreak">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a> -->
+  <a target="_blank" href="https://open.spotify.com/user/31n6gl67lhbt3yqmz6awiyb7g7ia?si=9a8f655698654b34">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a>
 
+<a href="https://github.com/rickdevelops" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000.svg?&style=flat-square&logo=github&logoColor=white" alt="Github"></a>
 <a href="https://www.linkedin.com/in/sounak-dey-ind/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/uncommitedsingle/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/sounak.dey.142/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<!-- <a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-<a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a> -->
+<a href="https://open.spotify.com/user/31n6gl67lhbt3yqmz6awiyb7g7ia?si=9a8f655698654b34" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 
 </div>
 
-<!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/sounak-dey-ind/) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/uncommitedsingle/) ● [🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​](https://www.facebook.com/sounak.dey.142/) ● [🇸​🇵​🇴​🇹​🇮​🇫​🇾​](https://open.spotify.com/user/0170agi99s5hh187g7mtz245b) -->
+<!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/sounak-dey-ind/) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/uncommitedsingle/) ● [🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​](https://www.facebook.com/sounak.dey.142/) ● [🇸​🇵​🇴​🇹​🇮​🇫​🇾​](https://open.spotify.com/user/31n6gl67lhbt3yqmz6awiyb7g7ia?si=9a8f655698654b34) -->
 
 -----
 Credits: [rickdevelops](https://github.com/rickdevelops)
